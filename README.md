@@ -2,6 +2,7 @@
 ## Required Links
 - Link to [dataset](https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz).
 - Link to [Tensorflow Object Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md).
+- Link to [ipynb file](https://github.com/RahulMeduri3/car_and_person_detection_TF/blob/main/Person_Car_Detection.ipynb).
 
 ## About the model
 1. The model is custom trained to detect objects **Person & Car** in an image.
